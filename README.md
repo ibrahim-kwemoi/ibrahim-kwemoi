@@ -1,4 +1,4 @@
-## 💫 About Me:
+# 💫 About Me:
 ---
 Enjoying code, loving math
 
@@ -16,7 +16,7 @@ Enjoying code, loving math
   </a>
 </p>
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 ---
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -33,7 +33,7 @@ Enjoying code, loving math
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
 </p>
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 ---
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-kwemoi&theme=dark&hide_border=false" alt="Frank's Streak Stats" />
