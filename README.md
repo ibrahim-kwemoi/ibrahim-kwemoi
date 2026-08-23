@@ -1,9 +1,9 @@
 # 💫 About Me:
----
+
 Enjoying code, loving math
 
 ## 🌐 Socials:
----
+
 <p align="left">
   <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
@@ -17,7 +17,7 @@ Enjoying code, loving math
 </p>
 
 # 💻 Tech Stack:
----
+
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -34,7 +34,8 @@ Enjoying code, loving math
 </p>
 
 # 📊 GitHub Stats:
----
+
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-kwemoi&theme=dark&hide_border=false" alt="Frank's Streak Stats" />
 </p>
+---
