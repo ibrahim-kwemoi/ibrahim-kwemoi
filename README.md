@@ -11,7 +11,7 @@ Enjoying code, loving math
   <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:info@ibrahimkwemoi.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
