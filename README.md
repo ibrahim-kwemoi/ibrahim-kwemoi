@@ -32,6 +32,7 @@ Enjoying code, loving math
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
 </p>
+
 ## 📊 GitHub Stats:
 ---
 <p align="left">
