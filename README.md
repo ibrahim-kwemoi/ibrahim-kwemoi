@@ -30,6 +30,6 @@ Enjoying code, loving math
 # 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-kwemoi&theme=dark&hide_border=false" alt="Frank's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-kwemoi&theme=dark&hide_border=false" alt="ibrahim's Streak Stats" />
 </p>
 
