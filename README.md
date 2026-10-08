@@ -41,5 +41,5 @@ I'm always excited to connect with new people, whether it's for networking, coll
 
 ## Let's Build Something Amazing Together!
 
-Thank you for visiting my profile. Let's connect and create something awesome!
+Thank you for visiting my profile. Let's connect and create something awesome!<br/>
 |
