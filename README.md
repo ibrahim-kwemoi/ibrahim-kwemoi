@@ -31,14 +31,14 @@ I specialize in creating dynamic and interactive web applications with a strong 
   <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-kwemoi&show_icons=true&theme=dark&hide_border=false" alt="ibrahim's GitHub Stats" />
 </p>
 
-### 📫 Get in Touch
-
+### Get in Touch
+---
 I'm always excited to connect with new people, whether it's for networking, collaboration, or just a chat about technology. Feel free to reach out to me through the following channels:
 
 -  **Email:** [kwemoi.ibrahim1@gmail.com](mailto:kwemoi.ibrahim1@gmail.com)
 -  **LinkedIn:** [My LinkedIn Profile](https://linkedin.com/in/ibrahim-kwemoi/)
 -  **Twitter:** [@_kwemz](https://twitter.com/_kwemz)
 
-### 💡 Let's Build Something Amazing Together!
-----
+### Let's Build Something Amazing Together!
+
 Thank you for visiting my profile. Let's connect and create something awesome!
