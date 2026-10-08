@@ -1,4 +1,4 @@
-## Hi there, I'm ibrah 👋
+# Hi there, I'm ibrah 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with expertise in both frontend and backend web development technologies. Here's a little about me and what I do.
 
